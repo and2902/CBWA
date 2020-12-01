@@ -67,4 +67,4 @@
 
 ## Author
 
-*Anderson d castro*
+*Anderson de castro*
